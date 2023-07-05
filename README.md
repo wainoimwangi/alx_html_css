@@ -36,5 +36,5 @@ Feel free to contact me with ideas that i could use to enhance this website and 
 
 # **Contact**
 Reach out to me via the following social platforms to connect and share more ideas
-*Twitter username: wainoi_mwangi*
-*Linkedin url: https://www.linkedin.com/in/grace-mwangi-a863ab204*
+- *Twitter username: wainoi_mwangi*
+- *Linkedin url: https://www.linkedin.com/in/grace-mwangi-a863ab204*
