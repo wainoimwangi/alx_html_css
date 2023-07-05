@@ -27,9 +27,9 @@ This a html and css project, written using Visual Studio code.
 
 # **Usage**
    - Open the project directory in your preferred code editor.
-   - Clone the repository: git clone !(https://github.com/wainoimwangi/alx_html_css.git)
-   - Navigate to the project directory: cd html_advanced
-   - Test the website locally using a web server or open the !(index.html) file directly in a web browser.
+   - Clone the repository: 'git clone https://github.com/wainoimwangi/alx_html_css.git'
+   - Navigate to the project directory: 'cd html_advanced'
+   - Test the website locally using a web server or open the 'index.html' file directly in a web browser.
 
 # **Contribution**
 Feel free to contact me with ideas that i could use to enhance this website and new feature ideas i could use to improve my work.
