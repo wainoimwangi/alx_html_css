@@ -1,0 +1,57 @@
+body
+{
+    border: 3px solid black;
+    height: 100vh;
+    padding: 10px;
+}
+header
+{
+    border: 5px solid black;
+    height: 65px;
+    padding: 5px; 
+}
+header main
+{
+    border: 2px solid black;
+    height: 55px;
+    padding: 3px; 
+}
+header div
+{
+    border: 1 px solid black;
+    /*height: inherit;*/
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    overflow: hidden;
+}
+header div div
+{
+    border: 1px solid red;
+    width: 300px;
+}
+.company-logo a
+{
+    border: 1px solid green;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+}
+
+#nav-links
+{
+    border: 1px solid black;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+#nav-links a
+{
+    border: 1px solid red;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
