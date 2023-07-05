@@ -2,20 +2,46 @@ body
 {
     display: flex;
     flex-direction: column;
+    border: 5px solid black;
+    padding: 5px;
+}
+.logo
+{
+    border: 2px solid black;
+    width: fit-content;
 }
 main
 {
     display: flex;
     flex-direction: row;
     flex: auto;
+    border: 2px solid red;
+    padding: inherit;
 }
 article
 {
     flex: 2;
     overflow-y: auto;
+    border: 2px solid green;
+    padding: 10px;
+}
+article p
+{
+    color: red;
+    font-size: 150%;
+    font-family: 'Lucida Sans';
 }
 aside
 {
     flex: 1;
     overflow-y: auto;
+    border: 2 px solid green;
+    font-size: 150%;
+    font-family: 'Lucida Sans';
+}
+table
+{
+    color: red;
+    font-size: 150%;
+    font-family: 'Lucida Sans'; 
 }
