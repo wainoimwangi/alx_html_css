@@ -7,25 +7,19 @@ body
 header
 {
     border: 5px solid black;
-    height: 65px;
+    height: 100px;
     padding: 5px; 
 }
-header main
-{
-    border: 2px solid black;
-    height: 55px;
-    padding: 3px; 
-}
+
 header div
 {
     border: 1 px solid black;
-    /*height: inherit;*/
+    height: 90px;
     display: flex;
     justify-content: space-between;
     padding: 10px;
-    overflow: hidden;
 }
-header div div
+.company-logo
 {
     border: 1px solid red;
     width: 300px;
