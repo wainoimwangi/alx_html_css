@@ -1,51 +1,22 @@
 body
 {
-    border: 3px solid black;
-    height: 100vh;
-    padding: 10px;
-}
-header
-{
-    border: 5px solid black;
-    height: 100px;
-    padding: 5px; 
-}
-
-header div
-{
-    border: 1 px solid black;
-    height: 90px;
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
+    width: 1440px;
+    height: 1093px;
+    flex-shrink: 0;
 }
 .company-logo
 {
-    border: 1px solid red;
-    width: 300px;
+    width: 167.016px;
+    height: 29.461px;
+    flex-shrink: 0;
+    color: #FFF;
 }
-.company-logo a
-{
-    border: 1px solid green;
-    width: inherit;
-    display: flex;
-    justify-content: center;
-}
-
 #nav-links
 {
-    border: 1px solid black;
-    width: 300px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 5px;
-}
-#nav-links a
-{
-    border: 1px solid red;
-    width: inherit;
-    display: flex;
-    justify-content: center;
-    padding: 0;
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
 }
