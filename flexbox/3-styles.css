@@ -406,9 +406,8 @@
   }
  
     /* section SERVICES ============================= */
-  .section-services ul.row
+  .section-services .container .section-body ul.row
   {
-    display: flex;
     flex-wrap: wrap;
   }
 
