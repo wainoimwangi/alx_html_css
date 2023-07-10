@@ -374,6 +374,12 @@
     padding: 10rem 40rem 2rem 0;
   }
 
+    /* section SERVICES ============================= */
+  .section-services  ul.row
+  {
+    flex-wrap: wrap;
+  }
+
     /* section-works ============================= */
   .section-works
   {
@@ -404,11 +410,6 @@
     display: flex;
   }
  
-    /* section SERVICES ============================= */
-  .section-services  ul.row
-  {
-    flex-wrap: wrap;
-  }
 
   /*** 4. CARD ***/
   
