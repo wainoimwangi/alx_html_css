@@ -374,42 +374,48 @@
     padding: 10rem 40rem 2rem 0;
   }
 
-    /* section SERVICES ============================= */
-  .section-services  ul.row
+    /* section-services
+      ============================= */
+  .section section-services ul.row
   {
     flex-wrap: wrap;
   }
 
-    /* section-works ============================= */
-  .section-works
+    /* section-works
+      ============================= */
+  .section section-works
   {
     display: flex;
   }
 
-    /* section-about-us ============================= */
-  .section-about-us
+    /* section-about-us
+      ============================= */
+  .section section-about-us
   {
     display: flex;
   }
 
-    /* Section latest news ============================= */
-  .section-latest-news ul.row
+    /* section-latest-news
+      ============================= */
+  .section section-latest-news ul.row
   {
     flex-direction: row-reverse;
   }
 
-    /* section-testimonial ============================= */
-  .section-testimonial
+    /* section-testimonial
+      ============================= */
+  .section section-testimonial
   {
     display: flex;
   }
 
-    /* section-contact ============================= */
-  .section-contact
+    /* section-contact
+      ============================= */
+  .section section-contact
   {
     display: flex;
   }
- 
+
 
   /*** 4. CARD ***/
   

@@ -376,46 +376,42 @@
 
     /* section-services
       ============================= */
-  .section-services
+  .section section-services
   {
     display: flex;
   }
 
     /* section-works
       ============================= */
-  .section-works
+  .section section-works
   {
     display: flex;
   }
 
     /* section-about-us
       ============================= */
-  .section-about-us
+  .section section-about-us
   {
     display: flex;
   }
 
-    /* Section latest news
+    /* section-latest-news
       ============================= */
-  .section-latest-news
-  {
-    display: flex;
-  }
-  .row
+  .section section-latest-news ul.row
   {
     flex-direction: row-reverse;
   }
 
     /* section-testimonial
       ============================= */
-  .section-testimonial
+  .section section-testimonial
   {
     display: flex;
   }
 
     /* section-contact
       ============================= */
-  .section-contact
+  .section section-contact
   {
     display: flex;
   }
