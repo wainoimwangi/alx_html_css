@@ -376,7 +376,7 @@
 
     /* section-services
       ============================= */
-  .section section-services ul.row
+  .section-services .row
   {
     flex-wrap: wrap;
   }
@@ -397,7 +397,7 @@
 
     /* section-latest-news
       ============================= */
-  .section section-latest-news ul.row
+  .section-latest-news .row
   {
     flex-direction: row-reverse;
   }
