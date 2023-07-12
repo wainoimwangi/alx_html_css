@@ -406,13 +406,15 @@
   
   /* section Latest news
    ============================= */
+
   .section-latest-news .row
   {
     flex-direction: row-reverse;
   }
 
-   /* section services
+   /* section SERVICES
     ============================= */
+    
   .section-services .row
   {
     flex-wrap: wrap;
