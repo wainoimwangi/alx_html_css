@@ -395,13 +395,6 @@
     display: flex;
   }
 
-    /* Section latest news
-      ============================= */
-  .section section-latest-news ul.row
-  {
-    flex-direction: row-reverse;
-  }
-
     /* section-testimonial
       ============================= */
   .section section-testimonial
@@ -414,6 +407,12 @@
   .section section-contact
   {
     display: flex;
+  }
+
+    /* Section latest news ============================= */
+  .section section-latest-news ul.row
+  {
+    flex-direction: row-reverse;
   }
 
 
