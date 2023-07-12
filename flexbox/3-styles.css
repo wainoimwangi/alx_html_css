@@ -404,19 +404,17 @@
     display: flex;
   }
   
-  /* section Latest news
+  /* Section Latest news
    ============================= */
 
-  .section-latest-news .row
-  {
+  .section-latest-news .row {
     flex-direction: row-reverse;
   }
 
-   /* section SERVICES
+   /* Section SERVICES
     ============================= */
-    
-  .section-services .row
-  {
+
+  .section-services .row {
     flex-wrap: wrap;
   }
 
