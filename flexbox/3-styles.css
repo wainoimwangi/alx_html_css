@@ -404,13 +404,15 @@
     display: flex;
   }
   
-  /* section-latest-news ============================= */
+  /* section Latest news
+   ============================= */
   .section-latest-news .row
   {
     flex-direction: row-reverse;
   }
 
-   /* section-services ============================= */
+   /* section services
+    ============================= */
   .section-services .row
   {
     flex-wrap: wrap;
